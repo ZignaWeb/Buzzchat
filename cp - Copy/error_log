@@ -1,0 +1,5 @@
+[31-Mar-2014 15:02:03 America/Montreal] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/buzzchat/public_html/cp/home.php on line 14
+[31-Mar-2014 15:02:03 America/Montreal] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/buzzchat/public_html/cp/home.php on line 14
+[31-Mar-2014 15:02:03 America/Montreal] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/buzzchat/public_html/cp/home.php on line 14
+[31-Mar-2014 15:02:03 America/Montreal] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/buzzchat/public_html/cp/home.php on line 14
+[31-Mar-2014 15:02:28 America/Montreal] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/buzzchat/public_html/cp/home.php on line 14

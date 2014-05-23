@@ -1,0 +1,52 @@
+.borde{
+		border:black solid 1px;
+	}
+.ventana { 
+		background:red; 
+		height:400px;
+		position:absolute; 
+		margin-left:30%; 
+		margin-top:10%
+	}
+.ventana .header{ 
+		height:10%; 
+		background:blue
+	}
+.ventana .header div {
+		height:100%
+	}
+.ventana hr { 
+		margin:0
+	}
+	
+.texto{
+		height:80%; 
+		overflow:auto;
+	  display:block
+}
+.texto div {display:table; max-width:90%; margin:1% auto}
+
+.input {
+	 bottom:0; 
+	 background:red; 
+	 height:10%; 
+	 position:absolute
+	}	
+.input input {
+		height:100%;  
+		background:#FF2626; 
+		border:none
+  }
+.from{
+		 width:auto; background:green;
+		 
+	}
+.to{
+		 width:auto; background:green;
+		 float:right;
+		 
+	}	
+.to p,
+.from p{ 
+	margin-bottom:0
+}
